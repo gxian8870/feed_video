@@ -1,11 +1,6 @@
 # feedsystem_video_go
 
 基于 Go + Vue 3 的短视频 Feed 系统，含账号、视频、点赞、评论、关注、Feed 流、私信、通知，支持 Redis 缓存、RabbitMQ 异步 Worker、分片上传、SSE 实时推送、Docker Compose 部署。
-
-## 更完整的视频 Feed 流系统项目
-
-[LeoninCS/GCFeed](https://github.com/LeoninCS/GCFeed) 是更为全面完整的视频 Feed 流系统项目，覆盖更丰富的业务能力与工程实践。
-
 ## 功能
 
 | 模块 | 功能 |
